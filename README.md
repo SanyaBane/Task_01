@@ -1,4 +1,4 @@
-= Usage
+# Usage
 
 <b>Compile project:</b>
 
@@ -16,7 +16,7 @@ mvn exec:java -Dexec.mainClass="com.sanyabane.client.App" -Dexec.args="localhost
 
 <i>First argument is server IP</i>
 
-= Author
+# Author
 
 E-mail: sanyabane@gmail.com
 Skype: SanyaBane
