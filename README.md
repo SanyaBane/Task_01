@@ -2,8 +2,6 @@
 
 <b>Compile project:</b>
 
-Go to "TaskServerClient"
-
 mvn install
 
 <b>Launch Server:</b>
@@ -19,5 +17,7 @@ mvn exec:java -Dexec.mainClass="com.sanyabane.client.App" -Dexec.args="localhost
 # Author
 
 E-mail: sanyabane@gmail.com
+
 Skype: SanyaBane
+
 Tel: (093)937-33-60
