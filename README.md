@@ -22,6 +22,3 @@ mvn install
 
 E-mail: sanyabane@gmail.com
 
-Skype: SanyaBane
-
-Tel: (093)937-33-60
